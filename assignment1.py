@@ -54,14 +54,28 @@ def fib(n):
     Note: fib(0) is 0, and fib(1) is 1.
 
     """
-    raise NotImplementedError()
+    # raise NotImplementedError()
+    if n==0:
+        fibonacci=0
+    elif n==1:
+        fibonacci=1
+    else:
+        fibonacci = fib(n-1) +fib(n-2)   
+    return fibonacci          
 
 def fac(n):
     """Compute n! (n factorial).
 
     Note: fac(0) is 1.
     """
-    raise NotImplementedError()
+    if n==1:
+        factorial = 1
+    else:
+        factorial = n*fac(n-1)       
+
+    # raise NotImplementedError()
+    return factorial
+
 
 
 def linear_fib(n):
@@ -76,4 +90,13 @@ def linear_fib(n):
     Remember to look at the Python library documentation for any
     data structure needs you have.
     """
-    raise NotImplementedError()
+    # raise NotImplementedError()
+    fn = f1 = f2 = 1
+    for x in range(2, n):
+        fn = f1 + f2
+        f2, f1 = f1, fn
+    return fn
+
+
+
+
