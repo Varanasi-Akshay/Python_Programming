@@ -1,0 +1,17 @@
+とる  取 執 捕 採 摂 撮 盗 穫 録
+
+穫る [とる] /(v5r,vt) (See 採る・2) to harvest (a crop)
+採る [とる] /(v5r,vt) (1) to adopt (measure, proposal)/(2) to pick (e.g. fruit)/to catch (e.g. insects)/to take (e.g. a sample)/(3) to assume (attitude)/(4) to take on (i.e. hire)/to engage/(P)
+撮る(P);録る [とる] /(v5r,vt) (1) (esp. 撮る) to take (a photo)/(2) (esp. 録る) to record (video, audio, etc.)/to make (a film)/(P)
+執る [とる] /(v5r,vt) to take (trouble)/to attend (to business)/to command (army)/(P)
+取る [とる] /(v5r,vt) (1) to take/to pick up/to harvest/to earn/to choose/(2) (See 盗る) to steal/(3) (See 摂る) to eat/to have (a meal)/(4) (also written as 脱る) to remove (one's glasses, etc.)/(5) to compete (in sumo, cards, etc.)/to play/(P)
+摂る [とる] /(v5r,vt) (See 取る・3) to have (lunch, etc.)/to take (vitamins, etc.)
+盗る [とる] /(v5r,vt) (See 取る・2) to take (nuance of stealing)
+捕る(P) [とる] /(v5r,vt) to take/to catch (fish)/to capture/(P)
+
+#   This file contains extracts from Jim Breen's EDICT file.
+#   Copyright © 2012 Electronic Dictionary Research & Development Group
+#   Its contents, and the contents of this derivative file, are subject
+#   to the license conditions described at
+#       http://www.edrdg.org/edrdg/licence.html
+#   (Creative Commons Attribution-ShareAlike License v3.0)
